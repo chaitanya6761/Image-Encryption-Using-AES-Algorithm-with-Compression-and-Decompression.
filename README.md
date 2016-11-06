@@ -24,3 +24,13 @@
   
   ![form](https://raw.githubusercontent.com/chaitanya6761/Image-Encryption-Using-AES-Algorithm-with-Compression-and-Decompression./master/screen%20shots/selector%20form.JPG)   
   
+## 4. Encryption  Form :
+ This form allows the user to select the image or a text file from the storage and specify a key for the Encryption process.
+   
+  Screenshot of the Encryption form:
+  
+  ![form](https://raw.githubusercontent.com/chaitanya6761/Image-Encryption-Using-AES-Algorithm-with-Compression-and-Decompression./master/screen%20shots/encryption%20form.JPG)     
+  
+  
+  
+  
