@@ -29,7 +29,15 @@
    
   Screenshot of the Encryption form:
   
-  ![form](https://raw.githubusercontent.com/chaitanya6761/Image-Encryption-Using-AES-Algorithm-with-Compression-and-Decompression./master/screen%20shots/encryption%20form.JPG)     
+  ![form](https://raw.githubusercontent.com/chaitanya6761/Image-Encryption-Using-AES-Algorithm-with-Compression-and-Decompression./master/screen%20shots/encryption%20form.JPG)
+  
+##5. Compression Form :
+ This form allows the user to compress the already encrypted image or text file. Firstly the user needs to select the file from the     storage and then select the one of the compression techniques from the dropdown. 
+ 
+  Screenshot of the Encryption form:
+  
+  ![form](https://raw.githubusercontent.com/chaitanya6761/Image-Encryption-Using-AES-Algorithm-with-Compression-and-Decompression./master/screen%20shots/compress-cz.JPG)
+
   
   
   
