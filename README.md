@@ -42,9 +42,19 @@
  This form allows the user to select the already encrypted and compressed file from the stroage. Once the user provides the correct  
   key in respective field then the original file/image will be decrypted.
   
-   Screenshot of the compression form:
+   Screenshot of the Decryption form:
   
   ![form](https://raw.githubusercontent.com/chaitanya6761/Image-Encryption-Using-AES-Algorithm-with-Compression-and-Decompression./master/screen%20shots/decryption%20form.JPG)
+  
+##7. Decompression Form:
+  In the last user can decompress the already decrypted image/file. The user needs to select the file from the storage and the should   the decompression algorithm from the dropdown and the result will be displayed in the stutus form.
+  
+  
+   Screenshot of the Decompression form:
+  
+  ![form](https://raw.githubusercontent.com/chaitanya6761/Image-Encryption-Using-AES-Algorithm-with-Compression-and-Decompression./master/screen%20shots/decryption%20form.JPG)
+  
+  
   
   
   
