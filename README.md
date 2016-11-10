@@ -40,7 +40,7 @@
   
 ##6. Decryption Form:
  This form allows the user to select the already encrypted and compressed file from the stroage. Once the user provides the correct  
-  key in respective field then the original file/image will be decrypted.
+ key in respective field then the original file/image will be decrypted.
   
    Screenshot of the Decryption form:
   
